@@ -6,18 +6,26 @@
 .left {
     width: 50%;
     outline: none;
-    font-size: 16px;
+    font-size: 20px;
+    padding-top: 30px;
     resize: none;
+    font-family: cursive; 
 
     color: aliceblue;
      background-color: black;
 }
 .right {
-    background-color: aqua;
+    background-color: rgb(232, 227, 227);
     width: 50%;
     color: black;
     outline: none;
- }
+    font-size: 20px;
+
+     font-family: cursive; 
+     border-bottom: 2px black;
+     border-style: solid;
+    
+}
  .docco{
 
  }

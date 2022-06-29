@@ -22,10 +22,16 @@
     font-size: 20px;
 
      font-family: cursive; 
-     border-bottom: 2px black;
-     border-style: solid;
+     border: 2px black;
+     border-style:outset;
     
 }
- .docco{
-
+ .head{
+    align-items: center;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    padding: 0%;
+    margin: 10px;
+    font-family:monospace;
  }

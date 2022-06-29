@@ -9,6 +9,7 @@ function App() {
  const [input,setInput]=useState();
   return (
     <> 
+    <p className='head' > Markdown Editor</p>
      <div className="center">
     <textarea 
     autoFocus
